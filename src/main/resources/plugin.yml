@@ -1,0 +1,8 @@
+name: VoxPixelSkills
+version: 1.0.0
+main: in.voxpixel.skills.VoxPixelSkills
+api-version: '1.21'
+depend:
+  - AuraSkills
+author: VOXPIXEL
+description: Hypixel-style Skills Addon
